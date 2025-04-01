@@ -1,8 +1,5 @@
 hola johny tal
 clase del martes 1 de abril de 2025
+estamos viendo ramas remotas 
+el jueves tenemos práctica
 pushear una rama local al repositorio remoto
-
-asd
-fsad
-fsadasdf
-sad
